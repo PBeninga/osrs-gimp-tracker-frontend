@@ -1,1 +1,1 @@
-const CONFIG_BACKEND_URL = 'https://pat-gim-tracker.herokuapp.com/'
+const CONFIG_BACKEND_URL = 'https://gimtracker.onrender.com'
